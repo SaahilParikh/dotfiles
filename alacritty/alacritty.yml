@@ -1,0 +1,27 @@
+env:
+  TERM: xterm-256color
+
+window:
+  padding:
+    x: 5
+    y: 5
+  decorations: buttonless
+  dynamic_padding: true
+
+font:
+  size: 18.0
+  normal:
+    family: "MesloLGS NF"
+  bold:
+    family: "MesloLGS NF"
+  italic:
+    family: "MesloLGS NF"
+  bold_italic:
+    family: "MesloLGS NF"
+
+draw_bold_text_with_bright_colors: true
+
+save_to_clipboard: true
+
+window.dynamic_title: true
+
